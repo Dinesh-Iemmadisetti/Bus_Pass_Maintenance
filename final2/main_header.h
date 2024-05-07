@@ -1,0 +1,17 @@
+void adminLogin();
+void userLogin();
+void adminServices();
+void addRemoveBus();
+void addRemoveRoute();
+void approveRejectBusPassMain();
+void busManager();
+void userFeedBack();
+void requestNewRouteApplications();
+void newUser();
+void existingUser();
+void busandRouteInfo();
+void userServices(char *ch1);
+void requestNewRoute(char *ch1);
+void feedBack(char *ch1);
+void busPass(char *ch1);
+void viewAll();
